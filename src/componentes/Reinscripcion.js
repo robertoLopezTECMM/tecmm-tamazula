@@ -51,7 +51,7 @@ class Reinscripcion extends Component{
                         <li><a href="https://drive.google.com/file/d/1yavlVO80lgPDemxO-UrzkrLhcmErUjJj/view?usp=sharing" target="_blank">Tecnologia de la Información y Comunicaciones</a></li>
                       </ul>
                     
-                    <li> SI SOLICITASTE CONDONACIÓN,   ESPERA RESULTADOS  EL 29 DE ENERO DE 2020, YA QUE NO HABRÁ  REEMBOLSO. </li>
+                    <li> SI SOLICITASTE CONDONACIÓN,   ESPERA RESULTADOS  EL 29 DE ENERO DE 2020, <font color="red">YA QUE NO HABRÁ  REEMBOLSO.</font></li>
                     <li> ASEGÚRATE  QUE AL MOMENTO DE REALIZAR EL PAGO EN EL BANCO EN  EL ESPACIO DE  “CONCEPTO” INGRESEN TU NÚMERO DE CONTROL, PARA QUE EL DEPARTAMENTO DE  FINANZAS  REALICE EL DESBLOQUEO POR CONCEPTO DE PAGO. </li>
                   </ul></font>
                 </td>
