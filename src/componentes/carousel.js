@@ -85,6 +85,11 @@ import './styles/carousel.css';
               <a href="http://controlescolar.tecmm.edu.mx/">
                 <button className="btn3Escolares">SERVICIOS<br/>ESCOLARES</button>
               </a>
+              
+              <a href="/Reinscripcion">
+                <button className="btn4Reinscripcion">PROCESO<br/>DE<br/>REINSCRIPCION</button>
+              </a>
+            
 
             </div>
 
