@@ -79,21 +79,21 @@ import './styles/carousel.css';
               </a>
 
               <a href="http://tecmm.edu.mx/unidadesAcademicas">
-<<<<<<< HEAD
+
                 <button className="btn2Campus">UNIDADES ACADEMICAS TECMM</button>
-=======
+
                 <button className="btn2Campus">UNIDADES ACADÉMICAS TECMM</button>
->>>>>>> f43f6462e32d07c52d161af35f31ee34884d1cb8
+
               </a>
 
               <a href="http://controlescolar.tecmm.edu.mx/">
                 <button className="btn3Escolares">SERVICIOS<br/>ESCOLARES</button>
               </a>
-              
+
               <a href="/Reinscripcion">
                 <button className="btn4Reinscripcion">PROCESO<br/>DE<br/>REINSCRIPCION</button>
               </a>
-            
+
 
             </div>
 
