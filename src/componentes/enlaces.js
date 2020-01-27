@@ -34,6 +34,10 @@ class Enlaces extends Component {
           <img src="http://tecmm.edu.mx/imagenesCampus/posgrados.JPG"/>
         </a>
 
+        <a target="_blank" href="/Reinscripcion">
+          <img src="http://www.tamazula.tecmm.edu.mx/imagenes/Reinscripcion.jpg"/>
+        </a>
+
        </div>
      );
    }
