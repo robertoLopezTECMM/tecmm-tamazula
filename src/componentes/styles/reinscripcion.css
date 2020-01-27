@@ -16,8 +16,11 @@
     background-color: ;
     font-family: "Gotham";
     text-align: center;
+    color:#454949;
+    border-color: #6D356C;
   }
-  
+  a { color: #3ac1c3; } 
+  a:hover { color: #6D356C; }
   .img-ItemCarrera{
     max-width:300px;
     max-height:300px;
