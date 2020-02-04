@@ -18,7 +18,7 @@ class Enlaces extends Component {
        <div className="div-principalEnlaces">
         <h1>ENLACES</h1>
 
-        <a target="_blank" href="http://www.edcore.tecmm.edu.mx">
+        <a target="_blank" href="http://187.174.80.184:8080/alum/">
           <img src="http://tecmm.edu.mx/imagenesCampus/edcore.png"/>
         </a>
 
