@@ -59,7 +59,7 @@ class Reinscripcion extends Component{
               </tr>
               <tr>
                 <td><font size="7">Paso 3</font></td>
-                <td>SI ERES ESTUDIANTE <font color="#6D356C">REGULAR</font> Y REALIZASTE  EL PAGO EN BANCO, PODRÁS SELECCIONAR MATERIAS DEL 3 AL 7 DE FEBRERO DE 2020. </td>
+                <td>SI ERES ESTUDIANTE <font color="#6D356C">REGULAR</font> Y REALIZASTE  EL PAGO EN BANCO, PODRÁS SELECCIONAR MATERIAS DEL 3 AL 7 DE FEBRERO DE 2020. <br/><font size="5"><a href="http://187.174.80.183:8080/alum/login.jsp" target="_blank">Clic aquí para EDCORE</a></font></td>
               </tr>
               <tr>
                 <td><font size="3">ESTUDIANTES IRREGULARES, ACUDIR CON SU JEFATURA DE DIVISIÓN EL VIERNES 7 DE FEBRERO DE 2020.</font></td>
