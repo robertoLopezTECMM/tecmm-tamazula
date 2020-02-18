@@ -7,6 +7,8 @@ import OfertaAcademica from './componentes/ofertaAcademica.js';
 import Rectoria from './componentes/rectoria.js';
 import ComponentePrueba from './componentes/componentePrueba.js';
 import Reinscripcion from './componentes/Reinscripcion.js';
+import Titulacion from './componentes/Titulacion.js';
+
 
 
 class RouterPrincipal extends Component {
@@ -20,6 +22,8 @@ class RouterPrincipal extends Component {
             <Route path="/ofertaAcademica" component={OfertaAcademica}/>
             <Route path="/componentePrueba" component={ComponentePrueba}/>
             <Route path="/rectoria" component={Rectoria}/>
+            <Route path="/Titulacion" component={Titulacion}/>
+            
           </Switch>
         </BrowserRouter>
       </div>
