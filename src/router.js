@@ -8,6 +8,7 @@ import Rectoria from './componentes/rectoria.js';
 import ComponentePrueba from './componentes/componentePrueba.js';
 import Reinscripcion from './componentes/Reinscripcion.js';
 import Titulacion from './componentes/Titulacion.js';
+import Aspirantes from './componentes/Aspirantes.js';
 
 
 
@@ -23,7 +24,8 @@ class RouterPrincipal extends Component {
             <Route path="/componentePrueba" component={ComponentePrueba}/>
             <Route path="/rectoria" component={Rectoria}/>
             <Route path="/Titulacion" component={Titulacion}/>
-            
+            <Route path="/Aspirantes" component={Aspirantes}/>
+           
           </Switch>
         </BrowserRouter>
       </div>

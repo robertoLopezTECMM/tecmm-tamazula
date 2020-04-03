@@ -26,8 +26,8 @@ class Enlaces extends Component {
           <img style={{marginLeft:"5px", marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/moodle.png"/>
         </a>
 
-        <a target="_blank" href="/Titulacion">
-          <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Titulacion.png"/>
+        <a target="_blank" href="/Aspirantes">
+          <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Venta-Pagina-web.png"/>
         </a>
 
         <a target="_blank" href="http://tecmm.edu.mx/#/Convocatorias">
@@ -36,6 +36,10 @@ class Enlaces extends Component {
 
         {/*<a target="_blank" href="/Reinscripcion">
           <img style={{marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/proceso-reinscripcion.webp"/>
+        </a>*/}
+
+        {/*<a target="_blank" href="/Titulacion">
+          <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Titulacion.png"/>
         </a>*/}
 
         {/*<a target="_blank" href="http://www.posgrado.tecmm.edu.mx/">

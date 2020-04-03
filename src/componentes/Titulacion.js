@@ -7,7 +7,8 @@ import { Grid, Image } from 'semantic-ui-react'
 import MenuCentral from './menuCentral.js'
 import Footer from './footer.js'
 
-import './styles/reinscripcion.css'
+//import './styles/reinscripcion.css'
+import './styles/aspirantes.css'
 
 class Titulacion extends Component{
 
