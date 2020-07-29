@@ -30,13 +30,14 @@ class Enlaces extends Component {
           <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Venta-Pagina-web.png"/>
         </a>
 
+        {<a target="_blank" href="/Reinscripcion">
+          <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Reinscripcion.jpg"/>
+        </a>}
+
         <a target="_blank" href="http://tecmm.edu.mx/#/Convocatorias">
           <img style={{marginRight:"5px"}}  src="http://tecmm.edu.mx/imagenesCampus/convocatorias.JPG"/>
         </a>
 
-        {/*<a target="_blank" href="/Reinscripcion">
-          <img style={{marginRight:"5px"}} src="http://tecmm.edu.mx/imagenesCampus/proceso-reinscripcion.webp"/>
-        </a>*/}
 
         {/*<a target="_blank" href="/Titulacion">
           <img style={{marginRight:"5px"}} src="http://tamazula.tecmm.edu.mx/imagenes/Titulacion.png"/>

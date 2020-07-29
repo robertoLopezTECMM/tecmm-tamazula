@@ -29,7 +29,7 @@ class Aspirantes extends Component{
             <div class="div-texto">
                 <h1>Paso 1</h1>
                 <p>
-                    Registrate en el portal EDCORE, completa los formularios y sube tus documentos del 10 de febrero al 22 de junio del 2020.
+                    Regístrate en el portal EDCORE, completa los formularios y sube tus documentos del 10 de febrero al 7 de agosto del 2020.
                 </p>
                 <a target="_blank" href="http://www.edcore.tecmm.edu.mx"><button>Registro Aquí</button></a>
             </div>
@@ -41,68 +41,71 @@ class Aspirantes extends Component{
           <div class="div-texto">
             <h1>Paso 2</h1>
             <p>
-              Realiza tu pago por $450.00 en la cuenta 0110362026 BBVA Bancomer, en el concepto de pago debe llevar el nombre completo del aspirante.
+              Del 4 de mayo al 7 de agosto, realiza tu pago por $450.00 en la cuenta 0110362026 BBVA Bancomer clabe interbancaria: 012090001103620261, en el concepto de pago debe llevar el nombre completo del aspirante.<br/><br/>
+              Una vez  hecho el pago  escanéalo  en formato pdf y envíalo al correo  <font>caja@tamazula.tecmm.edu.mx</font>  citando  tus datos personales: nombre completo, carrera y número de celular.
             </p>
           </div>
           <div id="morado" class="div-texto">
-            <h1>Paso 3</h1>
+          <h1>Paso 3</h1>
             <p>
-              Recopila los siguientes documentos:<br/><br/>
-              <font size="4">
-                <b>Solicitud de inscripción</b> (Descargala desde la plataforma EDCORE)<br/>
-                <b>Certificado de bachillerato</b> (Original, solo para cotejo y copia)<br/>
-                <b>Contancia de estudios donde indique el avance de crédito</b> (Original)<br/>
-                <b>Dictamen de revalidación del bachillerato concluido en el caso de ser extranjero</b> (Original, solo para cotejo y copia)<br/>
-                <b>Acta de nacimiento</b> (Original)<br/>
-                <b>CURP</b><br/>
-                <b>Fotografia digital en formato jpg</b><br/>
-                <b>Comprobante de pago original por concepto de inscripción.</b><br/>
-                <b>Compobante oficial del No. de seguro social único ordinario.</b><br/>
-                <b>Copia del registro del NSS del aspirante para obtenerlo deberán de entrar a <a target="_blank" href="http://www.imss.gob.mx/faq/seguro-estudiantes">http://www.imss.gob.mx/faq/seguro-estudiantes.</a></b><br/>
-              </font>
+              El Departamento de Servicios Escolares hará el cotejo del expediente en sistema EDCORE y enviará las fichas de examen a los correos electrónicos de las y los aspirantes. <br/><br/>Del  15 de junio  al  7 de agosto 2020.
             </p>
           </div>
         </div>
         <div id="morado" class="div-aspirantes">
           <div class="div-texto">
-            <h1>Paso 4</h1>
+          <h1>Paso 4</h1>
             <p>
-              Entrega y valida los documentos en ventanilla de control escolar y recibe tu ficha y horario de <b>Examen de admisión</b> del 4 de mayo al 22 de junio del 2020.
+              Descarga la guía de examen de admisión PAA COLLAGE BOARD<br/>
+              <a target="_blank" href="https://latam.collegeboard.org/wp-content/uploads/2020/04/Guia_de_estudios_PAA_WEB_.pdf"><button>Descarga aquí</button></a>
             </p>
           </div>
           <div id="verde" class="div-texto">
-            <h1>Paso 5</h1>
+          <h1>Paso 5</h1>
             <p>
-              Descarga la guía de examen de admisión PAA COLLAGE BOARD<br/>
-              <a target="_blank" href="http://latam.collageboard.org/paa/como-prepararse-para-la-paa/"><button>Descarga aquí</button></a>
+              Presenta tu examen de admisión el 12 de agosto del 2020. <br/><br/>
+              Se informará oportunamente el mecanismo de evaluación, ante COVID-19 (en línea o presencial con el protocolo de sanidad autorizado para tal efecto).
             </p>
           </div>
         </div>
         <div id="verde" class="div-aspirantes">
           <div class="div-texto">
-            <h1>Paso 6</h1>
+          <h1>Paso 6</h1>
             <p>
-              Presenta tu examen de admisión el 26 de junio del 2020 a las 8:00 a.m.
+            Consulta en la página oficial del TecMM  la lista de personas aceptadas, misma que se publicará el 14 de agosto a partir de las  17:00 horas.
             </p>
           </div>
           <div id="morado" class="div-texto">
-            <h1>Paso 7</h1>
+          <h1>Paso 7</h1>
             <p>
-              Consulta la página oficial del Tecmm la <b>lista de aceptados</b> el 14 e julio a partir de las 17:00 hrs.
+            Si estás en la lista de personas aceptadas, realiza el pago en BBVA Bancomer a la cuenta 0110362026 clave interbancaria: 012090001103620261, por $2,500.00 del 17 al 28 de agosto de 2020.
+            <br/><br/>Al realizar el pago en el apartado de concepto coloca tu nombre completo.
             </p>
           </div>
         </div>
         <div id="morado" class="div-aspirantes">
           <div class="div-texto">
-            <h1>Paso 8</h1>
+          <h1>Paso 8</h1>
             <p>
-              Si eres aceptado, realiza el pago en el banco autorizado por tu unidad académica por la cantidad de $2500.00 del 11 al 21 de agosto del 2020.
+            La entrega de documentos será previa calendarización: 24 de agosto: Electromecánica, 25 de agosto: Industrias Alimentarias y Tecnologías de la Información y Comunicaciones, 26 y 27 de agosto: Innovación Agrícola Sustentable y 28 de agosto: Administración.<br/><br/>
+              
+                <b>Solicitud de inscripción</b> (Descárgala desde la plataforma EDCORE)<br/><br/>
+                <b>Certificado de bachillerato</b> (Original, sólo para cotejo y copia)<br/><br/>
+                <b>Contancia de estudios, donde indique el avance de créditos</b> (Original)<br/><br/>
+                <b>Dictamen de revalidación del bachillerato concluido en el caso de ser extranjero</b> (Original, sólo para cotejo y copia)<br/><br/>
+                <b>Acta de nacimiento</b> (Original)<br/><br/>
+                <b>CURP</b><br/><br/>
+                <b>Fotografia digital en formato jpg</b><br/><br/>
+                <b>Comprobante de pago original por $2,500.00 por concepto de inscripción.</b><br/><br/>
+                <b>Comprobante oficial del No. de seguro social único ordinario.</b><br/><br/>
+                <b>Copia del registro del NSS del aspirante para obtenerlo deberán de entrar a <a target="_blank" href="http://www.imss.gob.mx/faq/seguro-estudiantes">http://www.imss.gob.mx/faq/seguro-estudiantes.</a></b><br/><br/>
+              
             </p>
           </div>
           <div id="verde" class="div-texto">
             <h1>Paso 9</h1>
             <p>
-              Asiste al curso de nivelacion del 11 al 21 de agosto del 2020, consulta la programación en tu unidad academica.
+              Recoge tu horario y paquete de materias en ventanilla de control escolar del 24 al 28 de agosto.
             </p>
           </div>
         </div>
@@ -110,13 +113,14 @@ class Aspirantes extends Component{
           <div class="div-texto">
             <h1>Paso 10</h1>
             <p>
-              Recoge tu horario y paquete de materias en ventanilla de control escolar del 17 al 21 de agosto del 2020.
+            Asiste al curso de nivelación del 17 al 27 de agosto del 2020, consulta la programación en tu Unidad Académica.
             </p>
           </div>
           <div id="morado" class="div-texto">
             <h1>Paso 11</h1>
             <p>
-              BIENVENIDAS Y BIENVENIDOS A CLASES<br/>24 de Agosto 2020 
+              ¡BIENVENIDAS Y BIENVENIDOS!<br/><br/>Inicio de clases:  31 de agosto del 2020<br/><br/>
+              NOTA: Se informará oportunamente el mecanismo de ingreso, ante COVID-19 cuidando el protocolo de sanidad autorizado para tal efecto.
             </p>
           </div>
         </div>

@@ -1,3 +1,4 @@
+
 #morado{
     background-color: #6d346c;
 }
@@ -93,4 +94,109 @@ p{
   color:#fff;
   font-family: Gotham-Ultra;
   cursor: pointer;
+}
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+  #morado{
+    background-color: #6d346c;
+  }
+  .div-aspirantes{
+    padding: 2%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    font-family: "Gotham";
+    text-align: center;
+    font-size: 10px;
+    color:#fff;
+    border-color: #fff;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .div-principal{
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+  }
+
+  .div-text{
+    padding: 3%;
+    width:100%;
+    height: 100%;
+    font-family: "Gotham";
+    text-align: center;
+    color:#454949;
+    border-color: #6D356C;
+  }
+
+  .div-textoSeccion{
+      padding: 5%;
+      color: #fff;
+  }
+
+  .img-seccionAspirantes {
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h1{
+    font-family: "Gotham";
+    font-size: 1rem;
+    text-align: center;
+    color: #ffffff;
+    margin: 1rem;
+    padding: 1rem;
+  }
+  h1:first-child{
+   margin-top: 0;
+  }
+  .div-texto{
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    width: 50%;
+    height: 100%;
+    font-family: "Gotham-Book";
+    text-align: justify;
+    font-size: 10px;
+    color:#fff;
+    border-color: #fff;
+  }
+  b{
+    font-size: 3;
+  }
+
+  p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  #morado button{
+    width: 50%;
+    height: 50px;
+    background-color: initial;
+    border: 3px solid #2da19a;
+    border-radius: 10px;
+    color:#fff;
+    font-family: Gotham-Ultra;
+    cursor: pointer;
+  }
+  #verde{
+    background-color:#2da19a ;
+  }
+  #verde button{
+    width: 50%;
+    height: 50px;
+    background-color: initial;
+    border: 3px solid #6d346c;
+    border-radius: 10px;
+    color:#fff;
+    font-family: Gotham-Ultra;
+    cursor: pointer;
+  }
 }
