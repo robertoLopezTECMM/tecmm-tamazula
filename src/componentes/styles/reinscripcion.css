@@ -28,7 +28,9 @@
     font-size: 20px;
   }
 
-
+p{
+  text-align: justify;
+}
 
   a { color: #2da19a; } 
   a:hover { color: #5C5B5F; }
@@ -46,7 +48,9 @@
   text-align: center;
   color:#fff;
  }
-
+h2{
+  font-family: "Gotham";
+}
  
   @media(min-width:2500px) and (max-width:5000px){
     .div-carreras{
@@ -85,7 +89,7 @@
   /*RESOLUCION PARA CELULARES*/
   @media(min-width:100px) and (max-width: 420px){
     .div-principal-reinscripcion{
-      width:100%;
+      width:80%;
       margin-left: 10%;
       margin-right: 10%;
       background-color: #fff;

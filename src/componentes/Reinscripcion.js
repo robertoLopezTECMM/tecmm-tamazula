@@ -26,7 +26,7 @@ class Reinscripcion extends Component{
       <div className="div-principal-reinscripcion">
         <MenuCentral/>
         <div className="div-text">
-            <h1>Proceso de Reinscripcion Agosto 2020 - Enero 2021</h1>
+            <h1>Proceso de Reinscripción Agosto 2020 - Enero 2021</h1>
             <br></br>
             <table className="div-text" text-align="center">
               <tr id="verde">
@@ -41,10 +41,9 @@ class Reinscripcion extends Component{
               <tr id="morado">
                 <td><h1>Paso 2</h1></td>
                 <td>
-                    REALIZA EL PAGO EN BBVA BANCOMER CON TU NÚMERO DE REFERENCIA Y CONVENIO CIE (1436864) por $2,500.00 del 10 al 28 de agosto de 2020.
-                    
+                    <p>REALIZA EL PAGO EN BBVA BANCOMER CON TU NÚMERO DE REFERENCIA Y CONVENIO CIE <font color="#2da19a">(1436864)</font> por $2,500.00 del 10 al 28 de agosto de 2020.
+                    <br/><br/>Números de Referencia
                       <ul >
-                        <li>Números de Referencia</li>
                         <li><a href="https://tamazula.tecmm.edu.mx/Documentos/reinscripcionAgo2020/Electro.pdf" target="_blank">Electromecánica</a></li>
                         <li><a href="https://tamazula.tecmm.edu.mx/Documentos/reinscripcionAgo2020/Admin.pdf" target="_blank">Administración</a></li>
                         <li><a href="https://tamazula.tecmm.edu.mx/Documentos/reinscripcionAgo2020/Alimentarias.pdf" target="_blank">Industrias Alimentarias</a></li>
@@ -53,11 +52,42 @@ class Reinscripcion extends Component{
                       </ul>
                     
                     ASEGÚRATE  QUE AL MOMENTO DE REALIZAR EL PAGO EN EL BANCO EN  EL ESPACIO DE  <font color="#2da19a">“CONCEPTO”</font> INGRESEN TU <font color="#2da19a">NÚMERO DE CONTROL</font>, PARA QUE EL DEPARTAMENTO DE  FINANZAS  REALICE EL DESBLOQUEO POR CONCEPTO DE PAGO.
+                    </p>
                 </td>
               </tr>
               <tr id="verde">
                 <td><h1>Paso 3</h1></td>
-                <td>ELECCIÓN DE MATERIAS A CURSAR EN EL SEMESTRE AGOSTO 2020  ENERO  2021 EN SISTEMA EDCORE DEL 17 AL 28 DE AGOSTO DE 2020. <br/><font size="5"><a href="http://187.174.80.184:8080/alum/login.jsp" target="_blank" id="morado">Clic aquí para EDCORE</a></font></td>
+                <td>
+                  <p><h2>Estudiantes regulares</h2><br/>
+                    La selección de materias es del 17 al 28 de agosto.<br/><font size="5"><a href="http://187.174.80.184:8080/alum/login.jsp" target="_blank" id="morado">Clic aquí para EDCORE</a></font><br/><br/>
+                    <h2>NOTA</h2>
+                    <font color="#6D356C">Asegurate de que tus materias seleccionadas correspondan a tu grupo.</font><br/>
+                    
+                    <br/><h2>Estudiantes irregulares</h2> <br/>Comunicarse con su Jefatura de División correspondiente para realizar su carga de materias.<br/><br/>
+
+                    Ing. Industrias Alimentarias<br/>
+                    Betsaida Ríos<br/>
+                    <font color="#6D356C">betsaida.rios@tamazula.tecmm.edu.mx</font><br/><br/>
+
+                    Ing. Innovación Agrícola Sustentable<br/>
+                    Xochiquetzal Magallón<br/>
+                    <font color="#6D356C">xochiquetzal.magallon@tamazula.tecmm.edu.mx</font><br/><br/>
+
+                    Ing. Electromecánica <br/>
+                    Irma Judith Silva <br/>
+                    <font color="#6D356C">judith.silva@tamazula.tecmm.edu.mx</font><br/><br/>
+
+                    Ing. Administración <br/>
+                    Christian Quiroz<br/>
+                    <font color="#6D356C">christian.quiroz@tamazula.tecmm.edu.mx</font><br/><br/>
+
+                    Ing. Tics<br/>
+                    Christian Quiroz<br/>
+                    <font color="#6D356C">christian.quiroz@tamazula.tecmm.edu.mx</font><br/><br/>
+                    <h2>Especiales</h2>
+                    <br/>Para solicitud de especialidad de la carrera y curso especial enviar un correo a Ma. de Jesús Ochoa Ortiz. Jefa de Servicios Escolares. <br/><font color="#6D356C">maria.ochoa@tamazula.tecmm.edu.mx</font>
+                    </p>
+                </td>
               </tr>
               <tr id="morado">
                 <td><h1>AVISOS</h1></td>
