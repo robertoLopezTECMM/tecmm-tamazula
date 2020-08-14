@@ -32,7 +32,7 @@ p{
   text-align: justify;
 }
 
-  a { color: #2da19a; } 
+  a { color: #EABE3F ; } 
   a:hover { color: #5C5B5F; }
 
   .img-ItemCarrera{
@@ -118,8 +118,8 @@ h2{
       font-size: 8px;
     }
  
-    a { color: #2da19a; } 
-    a:hover { color: #5C5B5F; }
+    a { color: #EABE3F ; } 
+  a:hover { color: #5C5B5F; }
   
     .img-ItemCarrera{
       max-width:150px;
@@ -130,9 +130,13 @@ h2{
     
     h1{
       font-family: "Gotham";
-      font-size: 1rem;
+      font-size: 2rem;
       text-align: center;
       color:#fff;
-     };
-  
+     }
+
+     h2{
+      font-family: "Gotham";
+      font-size: 1rem;
+    }
   }
