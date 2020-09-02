@@ -72,7 +72,7 @@ class Aspirantes extends Component{
           <div class="div-texto">
           <h1>Paso 6</h1>
             <p>
-            Consulta en la página oficial del TecMM  la lista de personas aceptadas, misma que se publicará el 14 de agosto a partir de las  17:00 horas.
+            Consulta en la página oficial del TecMM la lista de personas aceptadas <a href="https://tamazula.tecmm.edu.mx/Documentos/reinscripcionAgo2020/LISTA%20TAMAZULA.pdf"><h2>Clic aquí</h2></a>
             </p>
           </div>
           <div id="morado" class="div-texto">
